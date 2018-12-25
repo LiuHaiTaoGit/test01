@@ -10,6 +10,7 @@
     <modules>
         <module>cs1801_cloudsc_user_provider</module>
         <module>cs1801_cloudsc_user_provider</module>
+        <module>cs1801_cloudsc_user_provider</module>
     </modules>
     <packaging>pom</packaging>
     <parent>

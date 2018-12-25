@@ -12,6 +12,7 @@
     <modules>
         <module>cs1801_cloudsc_user_model</module>
         <module>cs1801_cloudsc_user_api</module>
+        <module>cs1801_cloudsc_user_service</module>
     </modules>
     <artifactId>cs1801_cloudsc_user_provider</artifactId>
 
